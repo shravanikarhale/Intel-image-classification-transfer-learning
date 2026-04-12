@@ -17,17 +17,6 @@ Hyperparameter Tuning
 Dataset
 Intel Image Classification dataset containing:
 
-seg_train
-seg_test
-seg_pred
-Classes:
-
-Buildings
-Forest
-Glacier
-Mountain
-Sea
-Street
 
 Technologies Used
 Python
