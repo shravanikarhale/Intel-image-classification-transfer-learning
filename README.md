@@ -1,5 +1,7 @@
 
 Intel Image Classification using Transfer Learning
+Name: Shravani Karhale
+PRN: 202301040139
 
 Overview
 Image classification using transfer learning on the Intel dataset by fine-tuning a pre-trained CNN model and optimizing hyperparameters.
